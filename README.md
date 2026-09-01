@@ -1,0 +1,1 @@
+# 100-days-of-c-upes-day-17-question-34-check-if-number-is-prime-or-not
